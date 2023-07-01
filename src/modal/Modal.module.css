@@ -1,0 +1,7 @@
+.App_visib{
+    visibility: visible;
+}
+
+.App_no_visib { 
+    visibility: hidden;
+}
