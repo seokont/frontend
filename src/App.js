@@ -12,7 +12,7 @@ function App() {
     
       <Navigation />
       <Routes>
-        <Route path="/" element={<Form />} />
+        <Route path="/frontend/" element={<Form />} />
         <Route path="/two" element={<Tabl />} />
       </Routes>
   

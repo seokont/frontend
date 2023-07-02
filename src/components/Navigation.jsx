@@ -8,7 +8,7 @@ const Navigation = () => {
         <nav>
           <ul style={{ listtyle: "none", margin: "0", paddingLeft: "0" }}>
             <li style={{ display: "inline-block", padding: "10px" }}>
-              <Link to="/">Home</Link>
+              <Link to="/frontend">Home</Link>
             </li>
             <li style={{ display: "inline-block", padding: "10px" }}>
               <Link to="/two">Page Two</Link>
